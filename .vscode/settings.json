@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/h391066/Applications/anaconda3/envs/basic_env/bin/python"
+    "python.pythonPath": "/Users/h391066/miniconda3/envs/morsels/bin/python",
+    "python.condaPath": "/Users/h391066/miniconda3/envs/morsels"
 }
